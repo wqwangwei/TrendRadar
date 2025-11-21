@@ -1,8 +1,30 @@
-胖东来
-于东来
+ai
+!gai
+人工智能
 
 DeepSeek
 梁文锋
+
+千问
+阿里云百炼
+qwen
+
+谷歌
+google
+gemini
+deepmind
+
+chatgpt
+openai
+sora
+
+claude
+Anthropic
+
+iphone
+ipad
+mac
+ios
 
 华为
 鸿蒙
@@ -35,13 +57,6 @@ DJI
 !车
 !餐
 
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
 京东
 刘强东
 
@@ -60,27 +75,6 @@ NVIDIA
 黄仁勋
 
 AMD
-
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
-
-ai
-!gai
-人工智能
 
 自动驾驶
 
